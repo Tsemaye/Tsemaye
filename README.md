@@ -1,7 +1,7 @@
 - Hi, I’m Charis
-- I’m interested in Data Analytics and Software engineering
-- I’m currently learning Full stack web development 🌱
-- I’m seeking for opportunities to collaborate on projects involving data analytics and software engineering.
+- I’m interested in Data Analytics
+- I’m currently learning SQL and Tableau 🌱
+- I’m seeking for opportunities to collaborate on projects involving data analytics.
 - How to reach me: Linkedin- linkedin.com/in/charisoneyemi | Gmail- Charisoneyemi@gmail.com 
 
 <!---
