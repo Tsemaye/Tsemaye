@@ -1,4 +1,4 @@
-- Hi there! I'm Charis, an MSc Data Science student passionate about unraveling insights from complex datasets.
+- Hi there! I'm Charis, a Data Analyst and MSc Data Science student passionate about unraveling insights from complex datasets.
 - Proficient in Python, SQL, Tableau, Excel, and currently learning Machine Learning and Deep Learning.
 - Explore my portfolio showcasing projects like:
   - Fraud Detection Model and Deployment
